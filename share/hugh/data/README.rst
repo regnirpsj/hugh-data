@@ -2,9 +2,15 @@
 share/hugh/data
 ===============
 
-.. contents::
+.. contents
 
-Introduction
-============
+Data
+======
 
-This directory will, at some point in the future, hold relevant data for other HUGH-based projects.
+* `McGuire's graphics data <mcguire/>`_
+* `Hand-crafted test data <test/>`_
+
+Miscellaneous
+=============
+
+TBD
